@@ -399,8 +399,7 @@ GEM
       psych (>= 4.0.0)
     reline (0.5.8)
       io-console (~> 0.5)
-    rexml (3.3.3)
-      strscan
+    rexml (3.3.9)
     rouge (3.26.0)
     ruby2_keywords (0.0.5)
     rubyzip (2.3.2)
@@ -416,7 +415,6 @@ GEM
     simpleidn (0.2.1)
       unf (~> 0.1.4)
     stringio (3.1.0)
-    strscan (3.1.0)
     temple (0.10.2)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
